@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/PROGRESS-4%2F17%20COMPLETED-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PYTHON-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUPYTER-NOTEBOOK-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LICENSE-MCS-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
