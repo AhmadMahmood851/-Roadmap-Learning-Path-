@@ -29,13 +29,13 @@ This repo helps me:
 
 ## 🗺️ Roadmap (Learning Path)
 
-<span>✅ = Completed | 🟦 = In&nbsp;Progress | ⏳ = Coming Soon</span>
+<span>✅ = Completed | 🔄= In&nbsp;Progress | ⏳ = Coming Soon</span>
 
 <ol>
   <li>✅ Python</li>
   <li>✅ Statistics</li>
   <li>✅ Pandas</li>
-  <li>🟦 NumPy</li>
+  <li>🔄 NumPy</li>
   <li>⏳ Matplotlib</li>
   <li>⏳ Seaborn</li>
   <li>⏳ Plotly</li>
