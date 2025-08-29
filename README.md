@@ -1,42 +1,18 @@
-<!-- Title -->
-<h1 align="left">📘 DSGuru Learning Journey</h1>
+<h1 align="center">📘 DSGuru Learning Journey</h1>
 
-<!-- Top badges + progress -->
-<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRESS-4%2F17%20COMPLETED-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PYTHON-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUPYTER-NOTEBOOK-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge"/>
+</p>
 
-  <!-- Progress pill -->
-  <div style="font-family:ui-sans-serif, system-ui; font-size:12px; letter-spacing:.3px; background:#e8f5e9; color:#1b5e20; border:1px solid #c8e6c9; border-radius:8px; padding:6px 10px;">
-    PROGRESS: <b>4/17 COMPLETED</b>
-  </div>
+---
 
-  <!-- Tech pills -->
-  <div style="font-family:ui-sans-serif, system-ui; font-size:12px; background:#e3f2fd; color:#0d47a1; border:1px solid #bbdefb; border-radius:8px; padding:6px 10px;">
-    PYTHON <b>3.10</b>
-  </div>
-
-  <div style="font-family:ui-sans-serif, system-ui; font-size:12px; background:#fff3e0; color:#e65100; border:1px solid #ffe0b2; border-radius:8px; padding:6px 10px;">
-    JUPYTER <b>NOTEBOOK</b>
-  </div>
-
-  <div style="font-family:ui-sans-serif, system-ui; font-size:12px; background:#eeeeee; color:#424242; border:1px solid #e0e0e0; border-radius:8px; padding:6px 10px;">
-    LICENSE <b>MIT</b>
-  </div>
-</div>
-
-<!-- Visual progress bar -->
-<div style="margin-top:12px; width:100%; max-width:520px; height:10px; background:#eee; border-radius:6px; overflow:hidden;">
-  <!-- 4/17 ≈ 23.5% -->
-  <div style="width:24%; height:100%; background:#43a047;"></div>
-</div>
-
-<hr/>
-
-<!-- Welcome banner -->
-<div style="background:#e9f2ff; border:1px solid #c7dcff; padding:12px 14px; border-radius:10px; line-height:1.5;">
-  Welcome to my <b>Data Science Learning Repository 🚀</b>
-  — This repo documents my step-by-step journey through the <b>DSGuru Roadmap</b>,
-  with notes, assignments, projects, and resources along the way.
-</div>
+<p style="background-color:#0366d6; color:white; padding:10px; border-radius:6px;">
+<b>Welcome to my Data Science Learning Repository 🚀</b><br>
+This repo documents my step-by-step journey through the <b>DSGuru Roadmap</b>, with notes, assignments, projects, and resources along the way.
+</p>
 
 ---
 
