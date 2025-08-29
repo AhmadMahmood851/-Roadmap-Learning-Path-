@@ -23,7 +23,7 @@ This repo helps me:
 
 - 🗂️ Keep everything organized (assignments, notes, resources).
 - ✅ Track my progress across different topics.
-- 📒 Build a <b>portfolio-style record</b> of my journey.
+- 💼 Build a <b>portfolio-style record</b> of my journey.
 
 ---
 
