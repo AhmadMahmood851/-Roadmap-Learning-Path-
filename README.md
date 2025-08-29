@@ -1,46 +1,34 @@
-<h1 align="center">🚀 Welcome to My GitHub</h1>
+<h1 align="center">📘 DSGuru Learning Journey</h1>
 
-<p align="center" style="background-color:#0366d6; color:white; padding:12px; border-radius:8px;">
-<b>Hi there 👋</b><br>
-I am learning and building amazing projects step by step.<br>
-This repository documents my journey with <b>Roadmaps, Notes, Assignments</b> and <b>Projects</b>.
-</p>
-
----
-
-## 📌 About Me
-- 🌱 I’m currently learning **Data Science & Web Development**  
-- 💻 I love working with **Python, HTML, CSS, JS**  
-- 📫 Reach me at: **your.email@example.com**  
-
----
-
-## ⚡ My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PROGRESS-4%2F17%20COMPLETED-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PYTHON-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUPYTER-NOTEBOOK-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="160"/>
+<p style="background-color:#0366d6; color:white; padding:10px; border-radius:6px;">
+<b>Welcome to my Data Science Learning Repository 🚀</b><br>
+This repo documents my step-by-step journey through the <b>DSGuru Roadmap</b>, with notes, assignments, projects, and resources along the way.
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🌱 Why this repo?
 
+I’m learning Data Science with a group called <b>DSGuru</b>.  
+This repo helps me:
 
+- 📂 Keep everything organized (assignments, notes, resources).  
+- ✅ Track my progress across different topics.  
+- 🗂️ Build a <b>portfolio-style record</b> of my journey.  
+
+---
+
+## 📑 Roadmap (Learning Path)
+
+✔️ = Completed | 🔵 = In Progress | ⏳ = Coming Soon  
+
+---
