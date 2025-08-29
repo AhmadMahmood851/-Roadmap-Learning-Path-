@@ -1,3 +1,5 @@
+<h1 align="center">📘 DSGuru Learning Journey</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PROGRESS-4%2F17%20COMPLETED-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PYTHON-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,13 +29,13 @@ This repo helps me:
 
 ## 🗺️ Roadmap (Learning Path)
 
-<span>✅ = Completed | 🔄 = In&nbsp;Progress | ⏳ = Coming Soon</span>
+<span>✅ = Completed | 🟦 = In&nbsp;Progress | ⏳ = Coming Soon</span>
 
 <ol>
   <li>✅ Python</li>
   <li>✅ Statistics</li>
   <li>✅ Pandas</li>
-  <li>🔄 NumPy</li>
+  <li>🟦 NumPy</li>
   <li>⏳ Matplotlib</li>
   <li>⏳ Seaborn</li>
   <li>⏳ Plotly</li>
@@ -52,6 +54,9 @@ This repo helps me:
 ---
 
 ## 📂 Repository Structure
+
+<!-- apni repository ki folders/files yahan list kar sakte ho -->
+
 
 
 
