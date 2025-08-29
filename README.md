@@ -8,6 +8,7 @@ with notes, assignments, projects, and resources along the way.
 
 # -Roadmap-Learning-Path-
 Welcome to my Data Science Learning Path 🚀 This repo is my digital notebook as I work through the DSGuru Roadmap, building skills through notes, coding exercises, real-world projects, and carefully chosen resources.
+<hr style="height:4px; background-color:#0366d6; border:none; margin:20px 0;">
 
 <p style="background-color:#007acc; color:white; padding:10px; border-radius:5px;">
 <b>Welcome to my Data Science Learning Repository 🚀</b><br>
