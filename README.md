@@ -1,9 +1,3 @@
-## 🗺️ Roadmap (Learning Path)
-
-<span>✅ = Completed | 🟦 = In&nbsp;Progress | ⏳ = Com
-
-<h1 align="center">📘 DSGuru Learning Journey</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PROGRESS-4%2F17%20COMPLETED-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PYTHON-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
